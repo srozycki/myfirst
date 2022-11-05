@@ -1,0 +1,2 @@
+#' tabela Irysów
+head(iris)
